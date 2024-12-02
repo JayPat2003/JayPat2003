@@ -5,15 +5,19 @@
 
 - 🌱 I’m currently learning **Robotics, NLP, MLOps**
 
-- 📝 I regularly write articles on [https://medium.com/@jayesh.pattamatta](https://medium.com/@jayesh.pattamatta)
+- 📝 I regularly write articles on [@jayesh.pattamatta](https://medium.com/@jayesh.pattamatta)
+
+- 💬 Ask me about **Data Science, AI, Healthcare Data Analytics & ML**
 
 - 📫 How to reach me **jayesh.pattamatta@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Nl53HPbH7HQluZdoyM3Y6pU0LWkdcZWf/view?usp=sharing](https://drive.google.com/file/d/1Nl53HPbH7HQluZdoyM3Y6pU0LWkdcZWf/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Nl53HPbH7HQluZdoyM3Y6pU0LWkdcZWf/view?usp=sharing)
+
+- ⚡ Fun fact **I think I am curious learner who always asks questions on everything !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jayesh-pattamatta-701092202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jayesh-pattamatta-701092202/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jayesh-pattamatta-701092202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayesh-pattamatta-701092202" height="30" width="40" /></a>
 <a href="https://kaggle.com/jayeshpattamatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jayeshpattamatta" height="30" width="40" /></a>
 <a href="https://instagram.com/ursjayesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ursjayesh" height="30" width="40" /></a>
 <a href="https://medium.com/@jayesh.pattamatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jayesh.pattamatta" height="30" width="40" /></a>
